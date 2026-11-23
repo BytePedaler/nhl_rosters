@@ -29,4 +29,3 @@ def get_rosters(team):
 
     
     return response_dict
-    
